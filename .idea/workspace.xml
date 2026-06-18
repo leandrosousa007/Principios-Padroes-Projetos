@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d5b5083-59a3-4f71-9c8e-65f63ca9357e" name="Changes" comment="lab04 e lab05" />
+    <list default="true" id="4d5b5083-59a3-4f71-9c8e-65f63ca9357e" name="Changes" comment="exit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,28 +30,29 @@
     &quot;accountId&quot;: &quot;ebf1628e-47d1-44ad-b0e2-9a71f508750d&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
   <component name="KubernetesApiProvider"><![CDATA[{
   "isMigrated": true
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000018325890472" />
-      <entry key="MS500" value="1.1227873587537844" />
-      <entry key="S2" value="3.635336411829078" />
-      <entry key="S5" value="6.738735867823364" />
-      <entry key="S10" value="8.548131685693818" />
-      <entry key="S30" value="10.099860238518973" />
-      <entry key="S60" value="10.628739842364674" />
-      <entry key="M2" value="11.385168715950414" />
-      <entry key="M5" value="13.493580647126565" />
-      <entry key="M10" value="16.335366559952924" />
-      <entry key="M15" value="18.186198076267186" />
-      <entry key="M30" value="20.91386629867486" />
-      <entry key="H1" value="22.74768979231451" />
-      <entry key="H2" value="23.815561716291633" />
-      <entry key="H4" value="24.392386354056654" />
-      <entry key="D1" value="24.896519094700587" />
-      <entry key="W1" value="24.985161852480125" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000073433672" />
+      <entry key="S5" value="1.002242428932302" />
+      <entry key="S10" value="1.1559341836486905" />
+      <entry key="S30" value="3.6587167588524365" />
+      <entry key="S60" value="6.453309311444079" />
+      <entry key="M2" value="9.155087929380448" />
+      <entry key="M5" value="12.807633919523143" />
+      <entry key="M10" value="16.28082210392308" />
+      <entry key="M15" value="18.394841421425546" />
+      <entry key="M30" value="21.4537811947231" />
+      <entry key="H1" value="23.496084592907394" />
+      <entry key="H2" value="24.683487190741154" />
+      <entry key="H4" value="25.324655601679304" />
+      <entry key="D1" value="25.884983977370453" />
+      <entry key="W1" value="25.983507782934467" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -73,23 +74,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9794220800541896" />
-      <entry key="MS500" value="1.1175368668889807" />
-      <entry key="S2" value="3.6256408094703616" />
-      <entry key="S5" value="6.730248315497054" />
-      <entry key="S10" value="8.542497133136816" />
-      <entry key="S30" value="10.097578333532853" />
-      <entry key="S60" value="10.627531466323502" />
-      <entry key="M2" value="11.38451752080643" />
-      <entry key="M5" value="13.493212538748818" />
-      <entry key="M10" value="16.335061485917173" />
-      <entry key="M15" value="18.185933995723428" />
-      <entry key="M30" value="20.91368647072901" />
-      <entry key="H1" value="22.747583110477436" />
-      <entry key="H2" value="23.815503392950184" />
-      <entry key="H4" value="24.392355833306897" />
-      <entry key="D1" value="24.896513808749017" />
-      <entry key="W1" value="24.98516109232571" />
+      <entry key="MS100" value="0.9659363289248456" />
+      <entry key="MS500" value="0.9930924954370359" />
+      <entry key="S2" value="0.9982686399211746" />
+      <entry key="S5" value="1.0015466975454121" />
+      <entry key="S10" value="1.1554848851504613" />
+      <entry key="S30" value="3.658000545650215" />
+      <entry key="S60" value="6.452631566877854" />
+      <entry key="M2" value="9.15459260378473" />
+      <entry key="M5" value="12.807300251822863" />
+      <entry key="M10" value="16.280530948009552" />
+      <entry key="M15" value="18.394584981307627" />
+      <entry key="M30" value="21.453603397413495" />
+      <entry key="H1" value="23.495978128341346" />
+      <entry key="H2" value="24.68342870949275" />
+      <entry key="H4" value="25.324624925000954" />
+      <entry key="D1" value="25.884978653755297" />
+      <entry key="W1" value="25.983507017099992" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -125,7 +126,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/UFU/PPP/Princípios e Padrões de Projetos/Lab-04/Questão02",
+    "last_opened_file_path": "D:/UFU/PPP/Princípios e Padrões de Projetos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,11 +141,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos" />
       <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos\Lab-04\Questão02" />
       <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos\Lab-04\Questão04" />
       <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos\Lab-04\Questão03" />
       <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos\Lab-04\Questão01" />
-      <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos\Lab-05\Questão01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\UFU\PPP\Princípios e Padrões de Projetos\Lab-03" />
@@ -234,7 +235,7 @@
       <workItem from="1781314934272" duration="11000" />
       <workItem from="1781317176440" duration="1567000" />
       <workItem from="1781487279109" duration="1048000" />
-      <workItem from="1781740704075" duration="1343000" />
+      <workItem from="1781740704075" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="lab03">
       <option name="closed" value="true" />
@@ -260,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781741885824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exit">
+      <option name="closed" value="true" />
+      <created>1781742107487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781742107487</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +289,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab03" />
     <MESSAGE value="lab04 e lab05" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab04 e lab05" />
+    <MESSAGE value="exit" />
+    <option name="LAST_COMMIT_MESSAGE" value="exit" />
   </component>
 </project>
